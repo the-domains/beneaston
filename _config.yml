@@ -1,14 +1,8 @@
-layout_spectrum: 0.5620946
-typography_spectrum: 0.2278151
+layout_spectrum: 1
 color:
-  saturation: 0.7883154
-  lightness: 0.05203112
+  saturation: 0.4713262
   brandStrength: 0.162602
-  rhythmicContrast: 0.08356078
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+  lightness: 0
+  rhythmicContrast: 0
+typography_spectrum: 0.4910394
 name: BenEaston

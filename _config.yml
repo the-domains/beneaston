@@ -10,11 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.4910394
 color:
   saturation: 1
   brandStrength: 0.162602
   lightness: 1
   rhythmicContrast: 1
-typography_spectrum: 0.4910394
-layout_spectrum: 0.5824373
+layout_spectrum: 0
 name: BenEaston

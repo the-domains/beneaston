@@ -6,6 +6,10 @@ color:
   rhythmicContrast: 1
 layout_spectrum: 0
 name: BenEaston
+navigation:
+  - name: People!!!
+    id: 11731975-1496-4c0d-9b9c-bf448bf9e92a
+    type: content
 collections:
   - index:
       path: /
